@@ -37,3 +37,6 @@ This project explores the Titanic passenger dataset to identify survival pattern
 - [] Document the work
 - [] Optional: Predictive Modelling
 
+## How to run
+- Run notebooks sequentially to reproduce analysis  
+- Open Excel and Power BI files for dashboards
