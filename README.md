@@ -29,8 +29,8 @@ This project explores the Titanic passenger dataset to identify survival pattern
 ## 📈 Project Progress
 - [x] Define the Objective
 - [x] Data Acquisition
-- [] Initial Data Exploration
-- [] Clean the Data
+- [x] Initial Data Exploration
+- [x] Clean the Data
 - [] Exploratory Data Analysis(EDA)
 - [] Feature Relationships
 - [] Dashboard in Excel/Power BI
